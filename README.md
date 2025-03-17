@@ -11,7 +11,7 @@ I specialize in **Android development, AI-powered applications, and cloud-integr
 - **Jetpack Compose & Kotlin** for modern UI development  
 - **RESTful APIs & Firebase** for backend integration  
 - **Google Cloud & Gemini API** for AI-enhanced functionalities
--  
+  
 
 ## 🛠️ Technical Skills  
 🔹 **Languages:** C, C++, Python, Kotlin  

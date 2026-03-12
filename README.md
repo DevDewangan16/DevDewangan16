@@ -2,7 +2,7 @@
 
 💻 Android Developer | Kotlin | Jetpack Compose | MVVM  
 
-🎓 Final-year B.Tech student in **Computer Science & Engineering** at **Bhilai Institute of Technology, Durg (CGPA: 8.81)** with **6+ months of professional Android development internship experience**.
+🎓 Final-year B.Tech student in **Computer Science & Engineering** at **Bhilai Institute of Technology, Durg (CGPA: 8.86)** with **6+ months of professional Android development internship experience**.
 
 I enjoy building scalable Android applications using **Kotlin, Jetpack Compose, MVVM architecture, and Firebase**, and integrating **AI and cloud services** to create impactful mobile products.
 

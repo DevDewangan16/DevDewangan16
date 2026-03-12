@@ -1,52 +1,66 @@
-## 👋 Hi, I'm Dev Dewangan
+# 👋 Hi, I'm Dev Dewangan
 
-🎓 I'm a pre-final year B.Tech student in **Computer Science and Engineering** at **Bhilai Institute of Technology, Durg**, passionate about crafting impactful Android applications using modern development tools, AI, and cloud technologies.
+💻 Android Developer | Kotlin | Jetpack Compose | MVVM  
 
----
+🎓 Final-year B.Tech student in **Computer Science & Engineering** at **Bhilai Institute of Technology, Durg (CGPA: 8.81)** with **6+ months of professional Android development internship experience**.
 
-## 💡 About Me
-
-I'm a dedicated **Android Developer** with hands-on experience in building full-stack mobile applications using **Kotlin**, **Jetpack Compose**, **Firebase**, and **REST APIs**. I enjoy turning innovative ideas into functional products and have developed solutions ranging from emergency response apps to e-commerce platforms and AI-powered summarizers.
+I enjoy building scalable Android applications using **Kotlin, Jetpack Compose, MVVM architecture, and Firebase**, and integrating **AI and cloud services** to create impactful mobile products.
 
 ---
 
-## 🔧 What I Do
+# 💡 About Me
 
-- 📱 **Android App Development**  
-  - Jetpack Compose & XML for modern, intuitive UI  
-  - MVVM architecture for scalable and testable apps  
-  - RESTful API integration and real-time data with Firebase  
+I am passionate about **Android development and modern mobile architectures**.  
+I have hands-on experience developing **production-ready mobile applications**, integrating **REST APIs**, optimizing app performance, and designing **responsive UI with Jetpack Compose**.
 
-- ☁️ **Cloud & AI Integration**  
-  - Google Cloud and Firebase for backend and hosting  
-  - Gemini API for document and text summarization  
-  - FCM for real-time notifications and alerts  
+I love turning innovative ideas into real-world applications such as **AI-powered emergency systems, e-commerce platforms, and smart mobile tools**.
 
 ---
 
-## 🛠 Technical Skills
+# 🚀 What I Work With
 
-- **Languages:** Kotlin, C++, Python  
-- **Mobile Development:** Jetpack Compose, XML, MVVM  
-- **Cloud & Backend:** Firebase, Google Cloud, CodeIgniter  
-- **Tools & Platforms:** Android Studio, Git, GitHub, Postman, VS Code  
+### 📱 Android Development
+- Kotlin & Java
+- Jetpack Compose and XML UI
+- MVVM Architecture
+- Navigation Component
+- Coroutines & StateFlow
+- Retrofit & REST APIs
+- Room Database
+
+### ☁️ Backend & Cloud
+- Firebase Authentication
+- Firestore Database
+- Firebase Cloud Messaging (FCM)
+- Google Cloud Platform
+- CodeIgniter APIs
+
+### 🧠 Computer Science Fundamentals
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🥈 1st Runner-up — *Hack The Space 2.0* (2024)  
-- 🏅 Winner — *Postman Gen AI API Track* (2024)  
-- 🥈 1st Runner-up — *BITSHINE Tech Fest* (2025)  
-
----
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/devdewangan)  
-- 💻 [GitHub](https://github.com/DevDewangan16)  
-- 📧 Email: dewangandev977@gmail.com  
+🥈 **1st Runner-up** — Hack The Space 2.0 Hackathon (2024)  
+🏅 **Winner** — Postman Gen AI API Track (2024)  
+🥈 **1st Runner-up** — BITSHINE Tech Fest (2025)
 
 ---
 
-🚀 I’m always open to **internship opportunities**, **collaborations**, and **freelance projects** in Android and AI-based development. Let’s build something awesome together!
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/devdewangan  
+
+💻 GitHub  
+https://github.com/DevDewangan16  
+
+📧 Email  
+dewangandev977@gmail.com  
+
+---
+
+⭐ I’m open to **Android Developer Intern**, **Android Engineer**, and **Software Developer roles**.  
+If you're building something exciting in **mobile or AI-powered applications**, I'd love to collaborate!
